@@ -1,5 +1,3 @@
-<img src="./docs/dairyIndustry.jpeg" alt="Header" width="600"/>
-
 ## About
 
 The Dairy Industry Sales Analysis is designed to optimize revenue and improve sales strategies within the dairy sector. The primary goal is to derive actionable insights that enhance sales performance and drive profitability. This analysis leverages comprehensive sales data, focusing on key aspects such as product categories, pricing, promotions, customer demographics, and inventory management. The analysis addresses the following questions:
@@ -15,7 +13,7 @@ This analysis is crucial for stakeholders like management, sales and marketing t
 
 To get this project, you can clone it by running the following code:
 
-    git clone git@github.com:ikhza25/DataAnalystProject.git
+    git clone https://github.com/ilhamtaufieq17/Dairy-Analysis.git
 ## Project Organization
 
 The directory structure of this project looks like this:
@@ -35,9 +33,9 @@ The directory structure of this project looks like this:
 
 If you'd like to contribute, feel free to contact me here:
 
-<a href="https://www.linkedin.com/in/ikhzasyafamuis/" target="_blank">
+<a href="https://www.linkedin.com/in/ilham-taufieq-julfianto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
-  <a href="mailto:ikhza25@gmail.com" target="_blank">
+  <a href="mailto:taufieq17@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  width="52" height="40" alt="gmail logo"/>
   </a>
